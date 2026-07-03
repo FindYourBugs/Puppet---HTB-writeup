@@ -11,7 +11,7 @@
 
 This write-up is for educational purposes and is based on an authorized Hack The Box Pro Lab environment. Do not use these techniques against systems you do not own or do not have explicit permission to test.
 
-**Note for GitHub:** Flags, reusable secrets, hashes, and sensitive credential values have been intentionally redacted.
+Flags, reusable secrets, hashes, and sensitive credential values have been intentionally redacted.
 
 ---
 
