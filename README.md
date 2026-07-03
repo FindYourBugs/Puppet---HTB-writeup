@@ -786,23 +786,6 @@ ssh-keygen -y -f ed25519
 
 ---
 
-## Suggested Repository Structure
-
-```text
-puppet-prolab-writeup/
-├── README.md
-├── screenshots/
-│   ├── ftp-files.png
-│   ├── file01-system.png
-│   ├── sa-netshares.png
-│   ├── ssh-login.png
-│   └── dc01-dpapi.png
-└── notes/
-    └── troubleshooting.md
-```
-
----
-
 ## Final Result
 
 Puppet Pro Lab completed successfully. The lab covered a realistic chain across Windows AD, Linux, Puppet infrastructure, Sliver C2, credential access, token impersonation, and DPAPI triage.
