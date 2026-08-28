@@ -1,4 +1,4 @@
-# Hack The Box Pro Lab: Puppet - Walkthrough
+# Hack The Box Pro Lab: Puppet - Writeup
 
 > **Status:** Completed  
 > **Platform:** Hack The Box Pro Labs  
